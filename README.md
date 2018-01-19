@@ -19,3 +19,6 @@ crontab -e
 add following code at the end of the file;
 
 1 2 * * * sudo /home/script.sh 
+
+
+If you want to keep every day backup separately you can use script-date.sh.
